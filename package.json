@@ -1,0 +1,24 @@
+{
+  "name": "vue-composable-reset",
+  "version": "1.0.0",
+  "description": "reset reactive object in vue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pisceanfoot/vue-composable-reset.git"
+  },
+  "keywords": [
+    "vue3",
+    "reactive",
+    "reset"
+  ],
+  "author": "Leo.He",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pisceanfoot/vue-composable-reset/issues"
+  },
+  "homepage": "https://github.com/pisceanfoot/vue-composable-reset#readme"
+}
